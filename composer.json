@@ -1,0 +1,15 @@
+{
+    "name": "pedrolois/moodle-local_loginas_participants",
+    "description": "Adds a one-click \"Log in as this user\" row action to the course Participants report.",
+    "type": "moodle-local",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Pedro Lois",
+            "homepage": "https://github.com/pedrolois"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0 || ~2.0"
+    }
+}
