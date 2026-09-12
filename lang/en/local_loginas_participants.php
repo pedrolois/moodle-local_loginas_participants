@@ -26,3 +26,4 @@
 $string['confirmloginas'] = 'Are you sure you want to login as this user?';
 $string['loginas'] = 'Log in as this user';
 $string['pluginname'] = 'Login as (participants row action)';
+$string['privacy:metadata'] = 'The Login as (participants row action) plugin does not store any personal data.';
