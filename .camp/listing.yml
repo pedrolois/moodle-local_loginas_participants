@@ -1,0 +1,19 @@
+# camp listing manifest (https://github.com/camp-registry/camp-docs/blob/main/AUTHORS.md).
+# Ingested and hash-pinned by camp at each tagged release.
+
+name: Log in as from Participants
+summary: Adds a "Log in as this user" action to each row of the course Participants report.
+description: |
+  Logging in as a student normally means opening a block or settings menu and
+  searching for the user. This plugin adds the action where teachers and
+  managers already work: one click (plus a confirmation) on the Participants
+  table logs you in as that user and drops you back into the course.
+
+  - Icon next to the "Edit enrolment" pencil on the course Participants report
+  - Same confirm-then-redirect flow and capability checks as core "Log in as"
+  - Never shown on the site-wide participants list
+labels:
+  - fully-free
+links:
+  docs: https://github.com/pedrolois/moodle-local_loginas_participants#readme
+  issues: https://github.com/pedrolois/moodle-local_loginas_participants/issues
